@@ -28,6 +28,8 @@ Check out some of my projects:
 - [PicPro](https://gitlab.com/sofiaakhtar468/picpro)
 - [Find Car Price](https://github.com/SofiaAkhtar/Find-Car-Price)
 - [Hand Gesture Volume Changer](https://github.com/SofiaAkhtar/Hand-Gesture-Volume-Changer)
+- [Health +](https://github.com/Sugamshaw/HEALTHPLUS_TEAM_BENEFITS)
+- [Bharat Heritage](https://github.com/Sugamshaw/FIBONS)
 
 ## Connect with Me
 
